@@ -1,0 +1,18 @@
+html{background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-image:url(Imagenes/Dia\ y\ noche.jfif);}
+table{   margin: auto;
+background-color: burlywood;
+color: rgb(54, 50, 44);
+border: solid 5px rgb(119, 5, 5);
+border-collapse: collapse ;}
+td,th{border:solid rgb(94, 6, 6);
+    padding: 15px;}
+th{color: rgb(78, 60, 9);
+    font-family: Georgia, 'Times New Roman', Times, serif;}
+    td{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+    h1{ color: rgb(14, 121, 14);
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size:40px;
+        text-align: center;}
